@@ -1,0 +1,15 @@
+.font{
+    color: brown;
+}
+.color{
+    color: red;
+}
+.highlight{
+    background-color: yellow;
+}
+.let{
+    letter-spacing: 1px;
+}
+a:link {
+    text-decoration: none;
+  }
